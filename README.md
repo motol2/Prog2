@@ -4,7 +4,7 @@ Tento repozitář obsahuje galerii obrázků vytvořených studenty.
 Každý student má vlastní sekci se svým jménem, odkazem na GitHub
 a náhledy obrázků uložených ve složce `images/`.
 
-Pro inspiraci se koukněte na soubor [ColabTurtleIntro.ipynb](https://colab.research.google.com/drive/1IX0X1sry5NnNvipQ6ETWMmxATD_Ig9pm?usp=sharing)
+Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/drive/1IX0X1sry5NnNvipQ6ETWMmxATD_Ig9pm?usp=sharing" target="_blank">ColabTurtleIntro.ipynb</a>
 
 **Rychlá navigace:**  
 [Balanets](#anastasiia-balanets) ·
