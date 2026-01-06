@@ -4,6 +4,38 @@ Tento repozitář obsahuje galerii obrázků vytvořených studenty.
 Každý student má vlastní sekci se svým jménem, odkazem na GitHub
 a náhledy obrázků uložených ve složce `images/`.
 
+**Rychlá navigace:**  
+[Balanets](#anastasiia-balanets) ·
+[Bartuněk](#michael-bartuněk) ·
+[Borovička](#ondřej-borovička) ·
+[Brož](#adam-brož) ·
+[Fenynets](#vitalii-fenynets) ·
+[Filip](#tomáš-filip) ·
+[Garčic](#vojtěch-garčic) ·
+[Horáček](#daniel-horáček) ·
+[Hron](#michal-hron) ·
+[Jandák](#tomáš-jandák) ·
+[Jiránek](#lukáš-jiránek) ·
+[Kravets](#maksym-kravets) ·
+[Kreperát](#šimon-kreperát) ·
+[Kryvka](#karyna-kryvka) ·
+[Kubala](#šimon-kubala) ·
+[Kubát](#pavel-kubát) ·
+[Mandziuk](#mykola-mandziuk) ·
+[Mayrhofer](#hynek-mayrhofer) ·
+[Miláček](#marek-miláček) ·
+[Nahornyi](#mark-nahornyi) ·
+[Pavelka](#dominik-pavelka) ·
+[Povolný](#antonín-povolný) ·
+[Procházka](#vincent-procházka) ·
+[Řehák](#marek-řehák) ·
+[Sauer](#matyáš-sauer) ·
+[Suchánsky](#jakub-suchánsky) ·
+[Sunkovský](#tomáš-sunkovský) ·
+[Škarvan](#petr-škarvan) ·
+[Štěpán](#tomáš-štěpán) ·
+[Viták](#jáchym-viták)
+
 ---
 
 ## Anastasiia Balanets
