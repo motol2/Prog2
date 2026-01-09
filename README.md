@@ -57,7 +57,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Ondřej Borovička
 🔗 https://github.com/dedeczech/Borovicka
 
-![Obrázek 1](https://brozovec.eu/video_player.html)
+![Obrázek 1](images/borovicka/obrazek1.png)
 
 ---
 
