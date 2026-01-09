@@ -246,7 +246,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Jáchym Viták
 🔗 https://github.com/Jachy47/Vitak2
 
-![Obrázek 1](images/vitak/obrazek1.png)
+![Obrázek 1](https://github.com/Jachy47/Vitak2/blob/main/vesmir.png?raw=true)
 
 ---
 
