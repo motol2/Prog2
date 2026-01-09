@@ -99,7 +99,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Michal Hron
 🔗 https://github.com/michal670/Hron---repozit-
 
-![Obrázek 1](images/hron/obrázek1.png)
+![Obrázek 1](images/hron/Obrázek1.png)
 
 ---
 
