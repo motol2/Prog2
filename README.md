@@ -44,14 +44,14 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 🔗 https://gist.github.com/qqqwwwaaarr/8836721a765b9ab68eea0549dbb75a66
 
 ![Obrázek 1](images/balanets/obrazek1.png)
-
+1-2
 ---
 
 ## Michael Bartuněk
 🔗 https://github.com/SkyGod934/Michael-Barunek
 
 ![Obrázek 1](images/bartunek/obrazek1.png)
-
+1 
 ---
 
 ## Ondřej Borovička
@@ -59,6 +59,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/borovicka/obrazek1.png)
 
+1-2
 ---
 
 ## Adam Brož
@@ -72,35 +73,35 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 🔗 https://github.com/Ekzarmfs/Fenynets.git
 
 ![Obrázek 1](images/fenynets/obrazek1.png)
-
+ 1-2
 ---
 
 ## Tomáš Filip
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
 
 ![Obrázek 1](images/filip/obrazek1.png)
-
+1-2
 ---
 
 ## Vojtěch Garčic
 🔗 https://github.com/JouJoumanCZ/skola
 
 ![Obrázek 1](images/garcic/obrazek1.png)
-
+1
 ---
 
 ## Daniel Horáček
 🔗 https://github.com/Dndskid/Horacek
 
 ![Obrázek 1](images/horacek/obrazek1.png)
-
+1
 ---
 
 ## Michal Hron
 🔗 https://github.com/michal670/Hron---repozit-
 
 ![Obrázek 1](images/hron/Obrázek1.png)
-
+1-2
 ---
 
 ## Tomáš Jandák
@@ -108,6 +109,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/jandak/obrazek1.png)
 
+1
 ---
 
 ## Lukáš Jiránek
@@ -130,6 +132,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/kreperat/obrazek1.png)
 
+1
 ---
 
 ## Karyna Kryvka
@@ -144,6 +147,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/kubala/obrazek1.png)
 
+1
 ---
 
 ## Mykola Mandziuk
@@ -151,6 +155,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/mandziuk/obrazek1.png)
 
+1
 ---
 
 ## Hynek Mayrhofer
@@ -158,6 +163,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/mayrhofer/image.png)
 
+1
 ---
 
 ## Marek Miláček
@@ -172,6 +178,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/nahornyi/obrazek1.png)
 
+1
 ---
 
 ## Pavel Kubát
@@ -179,6 +186,8 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/kubat/obrazek1.png)
 ![Obrázek 2](images/kubat/obrázek2.png)
+
+1
 ---
 
 ## Dominik Pavelka
@@ -186,6 +195,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/pavelka/obrazek1.png)
 
+1-2
 ---
 
 ## Antonín Povolný
@@ -208,6 +218,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ![Obrázek 1](images/rehak/obrazek1.png)
 ![Obrázek 2](images/rehak/obrazek2.png)
 
+1
 ---
 
 ## Matyáš Sauer
@@ -222,6 +233,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/skarvan/obrazek1.png)
 
+1
 ---
 
 ## Tomáš Štěpán
@@ -243,6 +255,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](images/sunkovsky/obrazek1.png)
 
+1
 ---
 
 ## Jáchym Viták
@@ -250,6 +263,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ![Obrázek 1](https://github.com/Jachy47/Vitak2/blob/main/vesmir.png?raw=true)
 
+1-2
 ---
 
 🗳️ **Hlasování:**  
