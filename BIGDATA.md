@@ -64,7 +64,9 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 
 ## Ondřej Borovička
 🔗 https://github.com/dedeczech/Borovicka
+Obrázek znázorňuje histogram využití tramvajových linek v Praze v procentech. Na vodorovné ose je uvedeno procentuální využití jednotlivých linek, zatímco svislá osa zobrazuje počet linek spadajících do daného intervalového rozsahu. Histogram je rozdělen do několika intervalů, které ukazují, jak často se jednotlivé hodnoty využití vyskytují. Z grafu je patrné rozložení vytíženosti tramvajových linek od méně využívaných až po nejvytíženější.
 
+Z histogramu vyplývá, že většina tramvajových linek v Praze má střední až vyšší míru využití, přibližně mezi 50 % a 75 %. Menší část linek vykazuje nízké využití, zatímco jen několik linek dosahuje velmi vysoké vytíženosti nad 80 %. Tyto výsledky naznačují relativně rovnoměrné využití tramvajové dopravy, přičemž nejvytíženější linky mohou vyžadovat posílení kapacity nebo častější spoje.
 ![Obrázek 1](images/borovicka/obrazek2.png)
 
 ---
