@@ -137,7 +137,7 @@ Celkově notebook demonstruje základní operace s daty jako je vytváření, fi
 
 ## Daniel Horáček
 🔗 https://github.com/Dndskid/Horacek
-
+vytváří barevný sloupcový histogram popularity filmových žánrů (Akční, Komedie, Drama, Horor, Sci-Fi, Romantické) od 1980s do 2020s s detailními statistikami.
 ![Obrázek 1](images/horacek/obrazek2.png)
 
 ---
