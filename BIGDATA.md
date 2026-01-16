@@ -167,8 +167,8 @@ Graf znázorňuje vztah mezi rokem výroby tramvají a jejich maximální konstr
 
 ## Lukáš Jiránek
 🔗 https://github.com/MentysTV/Jir-nek-Luk-
-
-![Obrázek 1](images/jiranek/obrazek2.png)
+Tento graf zobrazuje porovnání nejvyšších budov světa.
+![Obrázek 1](images/jiranek/<img width="3566" height="1761" alt="nejvyssi_budovy" src="https://github.com/user-attachments/assets/478e9bef-150e-4c50-898a-a16571da4e50" />)
 
 ---
 
