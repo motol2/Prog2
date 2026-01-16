@@ -152,7 +152,7 @@ vytváří barevný sloupcový histogram popularity filmových žánrů (Akční
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
 
-![Obrázek 1](images/jandak/obrazek2.png)
+![Obrázek 1](images/jandak/graf.png)
 
 ---
 
