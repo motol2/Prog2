@@ -130,7 +130,7 @@ Celkově notebook demonstruje základní operace s daty jako je vytváření, fi
 
 ## Vojtěch Garčic
 🔗 https://github.com/JouJoumanCZ/skola
-
+Analýza dvanácti českých řek v Pythonu pomocí seznamu toulů ukázala průměrnou délku 232 km a průtokovou dominanci Labe. Histogram odhaluje, že většina toků měří 100–250 km, přičemž pouze tři hlavní tepny přesahují 300 km, což dokládá soustředění sítě do několika klíčových koryt. Závěrem lze říci, že česká říční síť sestává z mnoha středních přítoků napájejících pár hlavních tepen. Vodnatost toku přitom závisí více na ploše povodí než na jeho celkové délce.
 ![Obrázek 1](images/garcic/obrazek2.png)
 
 ---
