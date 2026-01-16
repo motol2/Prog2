@@ -72,7 +72,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
 
-![Test_gradiant](https://brozovec.eu/obrazek2.png)
+![Test_gradiant](images/broz/img.png))
 
 ---
 
