@@ -256,7 +256,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Jáchym Viták
 🔗 https://github.com/Jachy47/Vitak2
 
-![Obrázek 1]([https://github.com/Jachy47/Vitak2/blob/main/obrazek2](https://github.com/motol2/Prog2/blob/main/images/vitak/disky.png))
+![Obrázek 1]((https://github.com/motol2/Prog2/blob/main/images/vitak/disky.png))
 
 ---
 
