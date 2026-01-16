@@ -184,7 +184,9 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 
 ## Pavel Kubát
 🔗 https://github.com/Piratesk1/Kubat
+
 Histogram vlastností letadel
+
 Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus A380 a Boeing 747 mají největší dolet, zatímco MiG-21 a Cessna 172 patří k letadlům s nejkratším doletem.
 ![Graf](images/kubat/graf.png)
 
