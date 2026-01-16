@@ -241,7 +241,9 @@ Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus 
 
 ## Antonín Povolný
 🔗 https://github.com/TondaPovolny/Povolny
+Histogram hodnocení filmů z 90. let
 
+Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vidět že průměrné hodnocení je lehce po 9 body z 10.
 ![Obrázek 1](images/povolny/obrazek2.png)
 
 ---
