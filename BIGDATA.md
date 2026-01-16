@@ -158,7 +158,9 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 🔗 https://github.com/pepsikolya/stocks
 
 ![Obrázek 1](images/mandziuk/obrazek2.png)
+Vizualizace Hustoty Zalidnění
 
+Tento projekt je jednoduchý Python skript pro analýzu demografických dat. Jeho hlavním cílem je vypočítat hustotu zalidnění (počet obyvatel na km²) pro různé země světa a vizualizovat výsledky formou přehledného grafu.
 ---
 
 ## Hynek Mayrhofer
