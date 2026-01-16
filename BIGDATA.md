@@ -284,8 +284,10 @@ Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus 
 
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
+Histogram Denních Teplot Během Roku
+![Obrázek 1](https://github.com/jakubsuchansky/Suchansky/blob/main/obrazek2.png)
 
-![Obrázek 1](images/suchansky/obrazek2.png)
+Histogram denních teplot během roku znázorňuje rozložení průměrných teplot za všech 365 dní. Z grafu je patrné několik vrcholů odpovídajících jednotlivým ročním obdobím – nejvíce dní se soustředí kolem jarních a podzimních teplot, zatímco extrémně nízké zimní a vysoké letní teploty se vyskytují méně často.
 
 ---
 
@@ -300,7 +302,13 @@ Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus 
 🔗 https://github.com/Jachy47/Vitak2
 
 ![Obrázek 1](https://github.com/motol2/Prog2/blob/main/images/vitak/disky.png?raw=true)
-
+Graf znázorňuje porovnání cen různých SSD a HDD disků v českých korunách.
+Je vidět, že SSD disky jsou obecně dražší než HDD při stejné nebo podobné kapacitě.
+Nejlevnější variantou v grafu je HDD 2TB s 7200 otáčkami, který stojí přibližně 980 Kč.
+Naopak nejdražší položkou je SSD 1TB s cenou okolo 1900 Kč.
+SSD 1TB NVMe je o něco levnější než klasické SSD 1TB, ale stále výrazně dražší než HDD disky.
+HDD 1TB a HDD 2TB mají poměrně podobné ceny, přestože se liší kapacitou.
+Celkově graf ukazuje, že vyšší rychlost a modernější technologie u SSD disků se odráží ve vyšší ceně.
 ---
 
 🗳️ **Hlasování:**  
