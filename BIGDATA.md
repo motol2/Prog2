@@ -139,7 +139,8 @@ Analýza dvanácti českých řek v Pythonu pomocí seznamu toulů ukázala prů
 
 ## Daniel Horáček
 🔗 https://github.com/Dndskid/Horacek
-vytváří barevný sloupcový histogram popularity filmových žánrů (Akční, Komedie, Drama, Horor, Sci-Fi, Romantické) od 1980s do 2020s s detailními statistikami.
+
+Vytváří barevný sloupcový histogram popularity filmových žánrů (Akční, Komedie, Drama, Horor, Sci-Fi, Romantické) od 1980s do 2020s s detailními statistikami.
 ![Obrázek 1](images/horacek/obrazek2.png)
 
 ---
