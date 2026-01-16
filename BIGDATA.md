@@ -315,6 +315,9 @@ Histogram denních teplot během roku znázorňuje rozložení průměrných tep
 
 ![Obrázek 1](images/sunkovsky/obrazek2.png)
 
+Závěr Průzkumu
+Analýza pražských tramvají ukazuje, že Praha postupně modernizuje svůj vozový park - přibližně polovina vozů je mladší než 6 let a dosahuje vyšších rychlostí (70 km/h), zatímco starší modely z počátku 2000. let s nižší rychlostí (65 km/h) postupně stárnou. Přestože trend modernizace je pozitivní, vysoká variabilita stáří vozů (rozpětí 22 let) indikuje, že Praha bude muset v následujících letech pokračovat v intenzivní aktualizaci vozového parku, aby zajistila bezpečnost, komfort cestujících a dlouhodobou efektivitu provozu tramvajové dopravy.
+
 ---
 
 ## Jáchym Viták
