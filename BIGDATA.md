@@ -246,8 +246,9 @@ Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus 
 
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
-
-![Obrázek 1](images/suchansky/obrazek2.png)
+Histogram Denních Teplot Během Roku
+![Obrázek 1]([images/suchansky/obrazek2.png](https://github.com/jakubsuchansky/Suchansky/blob/main/obrazek2.png))
+Histogram denních teplot během roku znázorňuje rozložení průměrných teplot za všech 365 dní. Z grafu je patrné několik vrcholů odpovídajících jednotlivým ročním obdobím – nejvíce dní se soustředí kolem jarních a podzimních teplot, zatímco extrémně nízké zimní a vysoké letní teploty se vyskytují méně často.
 
 ---
 
