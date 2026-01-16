@@ -136,7 +136,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Šimon Kreperát
 🔗 https://github.com/Simanski7/Kreperat
 
-![Obrázek 1](images/kreperat/obrazek2.png)
+![Obrázek 1](images/kreperat/obrazek1.png)
 
 ---
 
