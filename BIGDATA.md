@@ -236,6 +236,42 @@ Celkově lze říci, že databáze obsahuje převážně kriticky oceňované a 
 ## Marek Miláček
 🔗 https://github.com/marek-milacek/MMilacek
 
+# Popis práce a analýza letových dat
+
+Tento skript provádí komplexní analýzu a vizualizaci syntetických dat týkajících se globální letecké dopravy. Cílem je demonstrovat pokročilé možnosti vizualizace pomocí knihovny `matplotlib` (včetně subplotů) a efektivní práci s daty v `pandas`.
+
+### 1. Import knihoven a nastavení
+V úvodu byly načteny klíčové knihovny pro datovou vědu:
+* **pandas:** Pro manipulaci s daty a tvorbu DataFrame zlovníků.
+* **matplotlib.pyplot:** Pro tvorbu pokročilých grafů a vizualizací.
+* **numpy:** Pro generování náhodných dat a numerické operace.
+
+Zároveň byl globálně nastaven styl grafů na `seaborn-v0_8-darkgrid` a definována výchozí velikost obrazců pro zajištění čitelnosti.
+
+### 2. Generování a příprava dat
+Data nebyla načítána z externího souboru, ale vytvořena programově pro účely demonstrace:
+* **Dataset letišť:** Byl definován slovník `letisteData` obsahující metriky pro 10 světových letištích (např. Praha, Londýn, New York). Sledujeme počet letů, průměrnou délku letu a počet destinací. Data byla převedena na `pandas DataFrame`.
+* **Kategorizace letů:** Definice typů letů (Domácí, Evropské, Transatlantické atd.) a jejich průměrných délek.
+* **Časová řada:** Pomocí `numpy` byla vygenerována náhodná data o počtu letů pro každý měsíc v roce 2026.
+
+### 3. Komplexní vizualizace (Dashboard)
+Hlavním výstupem skriptu je **figura složená z 6 podgrafů (subplots)**, která poskytuje holistický pohled na data:
+
+1.  **Počet letů na letištích (Sloupcový graf):** Zobrazuje vytížení jednotlivých letišť s využitím barevné škály `viridis` a popisky hodnot.
+2.  **Průměrná délka letu (Horizontální pruhový graf):** Indikuje zaměření letiště (regionální vs. dálkové linky).
+3.  **Vztah: Počet letů vs. Destinací (Scatter plot):** Bublinový graf zobrazující 4 dimenze dat: osu X (lety), osu Y (destinace), velikost bubliny a barvu (průměrná délka letu).
+4.  **Distribuce typů letů (Koláčový graf):** Procentuální rozložení typů linek.
+5.  **Měsíční trend (Spojnicový graf):** Vývoj počtu letů v roce 2026 s vyplněnou oblastí pod křivkou.
+6.  **Variabilita délky letů (Box plot):** Statistický pohled na rozptyl délek letů v jednotlivých kategoriích (min, max, medián), kde data byla simulována normálním rozdělením.
+
+### 4. Textový souhrn statistiky
+Na závěr skript vypisuje do konzole přehlednou tabulku a agregované metriky:
+* Celkový objem letů a destinací v síti.
+* Identifikace nejrušnějšího letiště.
+* Statistika průměrných délek letů.
+
+Tento kód slouží jako ukázka tvorby profesionálního analytického dashboardu v Pythonu bez nutnosti použití externích BI nástrojů.
+
 ![Obrázek 1](images/milacek/obrazek2.png)
 
 ---
