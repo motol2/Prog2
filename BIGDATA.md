@@ -294,7 +294,8 @@ Graf zobrazuje dolet jednotlivých letadel v kilometrech. Je vidět, že Airbus 
 ---
 
 ## Dominik Pavelka
-🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
+🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main 
+Analýza 20 autobusových linek v Praze pomocí Pythonu ukázala průměrnou délku 13.0 km a délkovou dominanci linky 177 (25.5 km). Histogram odhaluje, že většina tras měří 5–15 km, přičemž pouze 2 hlavní tepny přesahují 20 km, což dokládá soustředění sítě do několika páteřních spojů. Závěrem lze říci, že pražská síť v tomto vzorku sestává z mnoha kratších obslužných linek napájejících pár dlouhých tangenciálních tras. Počet zastávek přitom silně koreluje s celkovou délkou linky.
 
 ![Obrázek 1](images/pavelka/obrazek2.png)
 
