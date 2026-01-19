@@ -202,8 +202,8 @@ Tento graf zobrazuje porovnání nejvyšších budov světa.
 ## Maksym Kravets
 🔗 https://github.com/Maomi0906/Kravets-Maksym
 
-Graf ukazuje rozložení počtu filmů podle jejich hodnocení IMDb. Na vodorovné ose (Hodnocení IMDb) jsou uvedeny intervaly hodnocení od 8,5 do 9,3 bodu. Na svislé ose (Počet filmů) je uveden počet filmů v každém intervalu.
-![Obrázek 1](images/kravets/obrazek2.png)
+
+![Obrázek 1](images/kravets/graf.png)
 
 ---
 
