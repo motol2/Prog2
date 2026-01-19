@@ -144,7 +144,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Karyna Kryvka
 🔗 https://github.com/moonlight-898/Karina
 
-![Obrázek 1](images/kryvka/obrazek1)
+![Obrázek 1](images/kryvka/obrazek1.png)
 
 ---
 
