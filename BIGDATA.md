@@ -127,6 +127,27 @@ Celkově notebook demonstruje základní operace s daty jako je vytváření, fi
 
 ## Tomáš Filip
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
+Histogram maximálních rychlostí letadel
+
+Databáze: Databáze obsahuje různé modely letadel a jejich maximální rychlosti v km/h.
+Analýza: Histogram ukazuje četnost maximálních rychlostí. Většina letadel má rychlost mezi 840–1120 km/h, přičemž Concorde je výrazný extrém se 2170 km/h.
+Interpretace: Graf vizuálně odlišuje běžná dopravní letadla od nadzvukového letadla.
+
+Horizontální sloupcový graf výšky sopek
+
+Databáze: Databáze obsahuje názvy sopek a jejich výšku v metrech.
+Analýza: Sloupcový graf zobrazuje výšky od nejnižší (Vesuv) po nejvyšší (Cotopaxi). Většina sopek se pohybuje mezi 1280–4200 m, zatímco Cotopaxi je výrazně vyšší.
+Interpretace: Graf umožňuje rychle porovnat velikost sopek a identifikovat nejvyšší i nejnižší sopku.
+
+Spojený bodový graf cen telefonů
+
+Databáze: Databáze obsahuje modely telefonů a jejich ceny v CZK.
+Analýza: Bodový graf spojuje ceny telefonů. Většina modelů se pohybuje mezi 11000–24000 Kč, nejdražší iPhone 15 je jasný extrém.
+Interpretace: Graf vizuálně ukazuje cenové rozložení a umožňuje rychle identifikovat nejlevnější i nejdražší telefon.
+
+Krátký závěr průzkumu
+
+Ve všech databázích se objevují výrazné extrémy (Concorde, Cotopaxi, iPhone 15), zatímco většina hodnot se drží kolem střední hodnoty. Grafy efektivně vizualizují rozdíly mezi objekty a usnadňují rychlou orientaci v datech.
 
 ![Obrázek 1](images/filip/obrazek2.png)
 
