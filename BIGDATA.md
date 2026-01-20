@@ -51,7 +51,7 @@ Základy práce ze seznamy - sdílený soubor <a href="https://colab.research.go
 ## Anastasiia Balanets
 🔗 https://github.com/qqqwwwaaarr/Balanets/blob/main/histogram.ipynb
 
-![Obrázek 1](images/balanets/obrazek2.png)
+![Obrázek 1](images/balanets/obraz2.png)
 
 ---
 
