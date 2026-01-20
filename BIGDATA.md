@@ -370,6 +370,7 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 Popis databáze: Pracoval jsem s databází (seznamem tuplů), která obsahuje informace o 16 typech tramvají provozovaných v Praze. Každý záznam obsahuje: typ tramvaje, maximální rychlost v km/h a rok první výroby. Data byla filtrována a seřazena pro účely statistického zpracování.
 
 Grafická analýza:
+
 Distribuce maximální rychlosti: Graf vlevo ukazuje, že většina pražských tramvají (80 %) dosahuje rychlosti 75–80 km/h, zatímco starší typy jsou omezeny na 50–55 km/h.
 
 Distribuce let výroby: Pravý graf znázorňuje, že největší obměna vozového parku proběhla po roce 1990 s vrcholem kolem roku 2005.
