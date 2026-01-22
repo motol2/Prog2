@@ -439,11 +439,13 @@ Historický vývoj mzdy v česku ukazuje na extrémní zrychlení růstu příjm
 
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
-Histogram Denních Teplot Během Roku
+Grafická část obsahuje čtyři histogramy, které zobrazují rozložení denních teplot během roku z různých pohledů. Celkový histogram znázorňuje obecné rozdělení teplot, zatímco samostatné histogramy zimních a letních dnů se zaměřují na extrémní hodnoty. Poslední graf seřazených teplot poskytuje přehled o celkovém rozsahu a variabilitě dat.
 ![Obrázek 1](https://github.com/jakubsuchansky/Suchansky/blob/main/obrazek2.png)
 
-Histogram denních teplot během roku znázorňuje rozložení průměrných teplot za všech 365 dní. Z grafu je patrné několik vrcholů odpovídajících jednotlivým ročním obdobím – nejvíce dní se soustředí kolem jarních a podzimních teplot, zatímco extrémně nízké zimní a vysoké letní teploty se vyskytují méně často.
+Z grafů je patrné, že největší četnost teplot se nachází ve středních hodnotách odpovídajících jarnímu a podzimnímu období. Extrémně nízké zimní teploty a velmi vysoké letní teploty se vyskytují méně často, což odpovídá typickému sezónnímu průběhu počasí během roku.
 
+Analýza dat ukázala, že většina denních teplot se během roku soustřeďuje kolem středních hodnot, zatímco extrémy jsou relativně vzácné.
+Histogramy a statistické zpracování potvrzují výrazný sezónní charakter ročního průběhu teplot.
 ---
 
 ## Tomáš Sunkovský
