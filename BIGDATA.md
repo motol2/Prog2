@@ -381,7 +381,38 @@ Graf zobrazuje kolik filmů má stejné hodnoce a průměrné hodnocení. Je vid
 
 ## Vincent Procházka
 🔗 https://github.com/VincentProchazka/Vincent-Prochazka
-Popis databáze: Pracoval jsem s databází (seznamem zemí a hodnot), která obsahuje informace o $15$ afrických státech. Každý záznam obsahuje: název země a aktuální míru porodnosti (vyjádřenou jako průměrný počet dětí na jednu ženu). Data vycházejí z údajů Světové banky pro rok $2023$ a byla seřazena pro účely přehledné vizualizace a statistického zpracování.Grafická analýza:Distribuce porodnosti: Graf vlevo ukazuje srovnání mezi jednotlivými zeměmi, kde nejvyšší porodnost vykazuje Niger ($6,9$ dětí na ženu) a Mali ($5,8$). Naopak nejnižší hodnoty v rámci sledovaného souboru dosahuje Keňa ($3,5$).Trendová analýza: Pravý graf znázorňuje vzestupný trend porodnosti napříč vybranými státy. Většina analyzovaných zemí ($80$ %) se pohybuje v pásmu nad $4,0$ dětí na jednu ženu, což značí vysokou míru přirozeného přírůstku v regionu.Závěr průzkumu: Analýza potvrdila, že sledovaný vzorek afrických zemí vykazuje nadprůměrnou úroveň fertility s průměrem $4,71$ dítěte na ženu. Z dat vyplývá, že i přes obecně vysoká čísla existují mezi státy (např. Niger vs. Keňa) výrazné rozdíly, které mohou souviset s odlišným tempem demografického přechodu v jednotlivých částech kontinentu.
+# Analýza míry porodnosti v afrických státech (2023)
+
+## Popis databáze
+
+Pracoval jsem s databází (seznamem zemí a hodnot), která obsahuje informace o 15 afrických státech. Každý záznam obsahuje:
+
+- **Název země**
+- **Aktuální míra porodnosti** (vyjádřená jako průměrný počet dětí na jednu ženu)
+
+Data vycházejí z údajů Světové banky pro rok 2023 a byla seřazena pro účely přehledné vizualizace a statistického zpracování.
+
+## Grafická analýza
+
+### Distribuce porodnosti
+
+Graf vlevo ukazuje srovnání mezi jednotlivými zeměmi, kde:
+- **Nejvyšší porodnost** vykazuje Niger (6,9 dětí na ženu) a Mali (5,8)
+- **Nejnižší hodnoty** v rámci sledovaného souboru dosahuje Keňa (3,5)
+
+### Trendová analýza
+
+Pravý graf znázorňuje vzestupný trend porodnosti napříč vybranými státy. Většina analyzovaných zemí (80 %) se pohybuje v pásmu nad 4,0 dětí na jednu ženu, což značí vysokou míru přirozeného přírůstku v regionu.
+
+## Závěr průzkumu
+
+Analýza potvrdila, že sledovaný vzorek afrických zemí vykazuje nadprůměrnou úroveň fertility s **průměrem 4,71 dítěte na ženu**. 
+
+Z dat vyplývá, že i přes obecně vysoká čísla existují mezi státy (např. Niger vs. Keňa) výrazné rozdíly, které mohou souviset s odlišným tempem demografického přechodu v jednotlivých částech kontinentu.
+
+---
+
+*Zdroj dat: Světová banka, 2023*
 
 ![Obrázek 1](images/prochazka/obrazek2.png)
 
