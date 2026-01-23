@@ -206,14 +206,16 @@ Tento graf zobrazuje porovnání nejvyšších budov světa.
 
 ## Maksym Kravets
 🔗 https://github.com/Maomi0906/Kravets-Maksym
+
 Předložený obrázek obsahuje čtyři grafy, které vizualizují a analyzují různé charakteristiky souboru 10 filmů, jako jsou jejich hodnocení, roky vydání a distribuce podle desetiletí.
-1. Histogram "Distribuce hodnocení filmů" ukazuje, kolik filmů obdrželo určité hodnocení.
+
+ 1. Histogram "Distribuce hodnocení filmů" ukazuje, kolik filmů obdrželo určité hodnocení.
 Příklad: Většina filmů má hodnocení mezi 8.5 a 8.8 body.
-2. Horizontální sloupcový diagram "Hodnocení filmů (seřazeno)" popisuje hodnocení každého filmu v seznamu.
+ 2. Horizontální sloupcový diagram "Hodnocení filmů (seřazeno)" popisuje hodnocení každého filmu v seznamu.
 Příklad: Film «The Shawshank Redemption» obdržel nejvyšší hodnocení.
-3. Koláčový diagram "Distribuce filmů podle desetiletí" ukazuje, ve kterém desetiletí bylo vydáno nejvíce filmů ze seznamu.
+ 3. Koláčový diagram "Distribuce filmů podle desetiletí" ukazuje, ve kterém desetiletí bylo vydáno nejvíce filmů ze seznamu.
 Příklad: Většina filmů (80%) byla natočena v 90. letech a po roce 2010.
-4. Liniový graf "Změna hodnocení s rokem vydání" zobrazuje, jak se měnila hodnocení filmů v různých letech.
+ 4. Liniový graf "Změna hodnocení s rokem vydání" zobrazuje, jak se měnila hodnocení filmů v různých letech.
 Příklad: Filmy ze 70. let obdržely vysoká hodnocení, na rozdíl od některých filmů z počátku roku 2000.
 
 ![Obrázek 1](images/kravets/graf.png)
