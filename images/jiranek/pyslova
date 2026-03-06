@@ -1,0 +1,39 @@
+import re
+import urllib.request
+from collections import Counter
+
+url = "https://www.umimeinformatiku.cz/files/alice.txt"
+text = urllib.request.urlopen(url).read().decode().lower()
+
+# Nejčastější písmeno
+letter_counts = Counter(c for c in text if c.isalpha())
+top_letter, top_count = letter_counts.most_common(1)[0]
+print(f"Nejčastější písmeno: '{top_letter}' ({top_count}x)")
+
+# Nejčastější slovo
+words = re.findall(r"\\b[a-z']+\\b", text)
+word_counts = Counter(words)
+print(f"\\nTop 20 nejčastějších slov:")
+for word, count in word_counts.most_common(20):
+    print(f"  {count:5d}  {word}")
+
+# Různá slova podle délky
+print(f"\\nPočet různých slov podle délky:")
+for length in range(1, 16):
+    unique = set(re.findall(rf"\\b[a-z]{{{length}}}\\b", text))
+    print(f"  {length:2d} písmen: {len(unique)} různých slov")
+```
+
+Výstup bude vypadat nějak takhle:
+```
+Nejčastější písmeno: 'e' (13571x)
+
+Top 20 nejčastějších slov:
+ 1642  the
+  872  and
+  ...
+  248  her   ← 16. místo
+
+Počet různých slov podle délky:
+  8 písmen: 297 různých slov
+ 14 písmen:   4 různá slova
