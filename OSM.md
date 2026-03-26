@@ -37,10 +37,12 @@ a náhledy obrázků uložených ve složce `images/`.
 [Viták](#jáchym-viták)
 
 ---
+<!-- Velikost obrázku změníme jako v html: <img src="odkaz_na_obrazek1.jpg" width="150"><br>-->
+
 ## Ukázka
 | OSMnx | mapy.cz |
 |-----------|-----------|
-| ![Popis 1](KladnoOSM.png)<br>2.9 km, 3 min autem | ![Popis 2](Kladno_mapy.png)<br>3,5 km, 8 min autem |
+| ![obr KladnoOSM](images/voracova/KladnoOSM.png)<br>2.9 km, 3 min autem | ![obr Kladno_mapy](images/voracova/Kladno_mapy.png)<br>3,5 km, 8 min autem |
 
 ## Anastasiia Balanets
 🔗 https://gist.github.com/qqqwwwaaarr/8836721a765b9ab68eea0549dbb75a66
