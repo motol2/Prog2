@@ -248,7 +248,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Tomáš Sunkovský
 🔗 https://github.com/TomyssCZ/Tomas-Sunkovsky
 
-![Obrázek 1](images/sunkovsky/obrazek4.png)
+![Obrázek 1](images/sunkovsky/Obrazek1.png)
 https://colab.research.google.com/drive/14woGZ57e6haquv47VzIC6k4yy5E_kZlJ?usp=sharing
 
 ---
