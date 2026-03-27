@@ -93,7 +93,7 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/JouJoumanCZ/skola
 
 [Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1UcuCy1gFC5kSf1WIaV0DtdJHucOsSi0q?usp=sharing)
-| Google Maps | OSMnx |
+| OSMnx | Google Maps |
 |-----------|-----------|
 | ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/bellmanosm.png)
 VÝSLEDKY TRASY:
