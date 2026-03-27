@@ -195,6 +195,7 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
 
 ![Obrázek 1](images/pavelka/mapa1.png)
+![Obrázek 2](images/pavelka/mapa2.png)
 
 
 ---
