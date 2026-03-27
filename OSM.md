@@ -194,7 +194,8 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/Piratesk1/Kubat
 | OSMnx | Mapy.cz |
 |-----------|-----------|
-![Obrázek 1](images/kubat/vatikan.png)
+![Obrázek 1](<img width="721" height="776" alt="vatikan" src="https://github.com/user-attachments/assets/88b3faf7-68e7-445c-9982-c7424a09b035" />)
+
 ![Obrázek 2](images/kubat/mapy.png)
 ---
 
