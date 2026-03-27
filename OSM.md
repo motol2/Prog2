@@ -253,8 +253,10 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Tomáš Sunkovský
 🔗 https://github.com/TomyssCZ/Tomas-Sunkovsky
 
-![Obrázek 1](images/sunkovsky/Obrazek1.png) ![Obrázek 2](images/sunkovsky/Obrazek2.png)
 https://colab.research.google.com/drive/14woGZ57e6haquv47VzIC6k4yy5E_kZlJ?usp=sharing
+| OSMnx | Maps.google.com |
+|-----------|-----------|
+| ![Obrázek 1](images/sunkovsky/Obrazek1.png)<br>1061 m | ![Obrázek 2](images/sunkovsky/Obrazek2.png)<br>1,1 km, 2 min autem |
 
 ---
 
