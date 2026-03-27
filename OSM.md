@@ -200,8 +200,9 @@ a náhledy obrázků uložených ve složce `images/`.
 
 ## Antonín Povolný
 🔗 https://github.com/TondaPovolny/Povolny
-
-![Obrázek 1](images/povolny/obrazek4.png)
+| OSMnx | Maps.google.com |
+|-----------|-----------|
+|![Obrázek 1](images/povolny/obrazek4.png) <br>700 m | ![Obrázek 3](images/povolny/obrazek3.png)<br>702m, 10 min pěšky |
 
 ---
 
