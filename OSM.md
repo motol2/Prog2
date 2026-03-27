@@ -118,7 +118,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
 [Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1dzjnX0bC4Aqf50XfIPnoxGxZCbQa4sk6?usp=sharing)
-| OSMnx     |Google Mapa|
+| OSMnx |Google Mapa|
 |-----------|-----------|
 
 ![Obrázek 1](<img width="100" height="100" alt="obrázek" src="https://github.com/user-attachments/assets/2f92f941-183e-499a-97e0-f203b2619f60" />)
