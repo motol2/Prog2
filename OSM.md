@@ -174,6 +174,7 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 [[https://github.com/marek-milacek/MMilacek](https://github.com/marek-milacek/MMilacek/blob/main/BellmanFordOSM.ipynb)
 
 ![Obrázek 1](images/milacek/obrazek4.png)
+![Obrázek 2](images/milacek/mapa1.png)
 
 ---
 
