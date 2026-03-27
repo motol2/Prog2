@@ -264,6 +264,6 @@ https://colab.research.google.com/drive/14woGZ57e6haquv47VzIC6k4yy5E_kZlJ?usp=sh
 [Odkaz na soubor *.ipynb](https://github.com/Jachy47/Vitak2/blob/main/NoveMytoStreetsmap.ipynb)
 | OSMnx | mapy.cz |
 |-----------|-----------|
-| ![obr Vysoke Myto OSM](Vitak2/Nové Mýto.png)<br>1.9 km| ![obr Vysoke_Myto_mapy](Vitak2/VysokéMýto.png)<br>2,8 km, 6 min autem |
+| !(Nové_Mýto.png)<br>1.9 km| ![obr Vysoke_Myto_mapy](Vitak2/VysokéMýto.png)<br>2,8 km, 6 min autem |
 
 ---
