@@ -153,6 +153,11 @@ a náhledy obrázků uložených ve složce `images/`.
 
 ## Mykola Mandziuk
 🔗 https://github.com/pepsikolya/stocks
+🔗 https://github.com/pepsikolya/stocks
+[Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1UcuCy1gFC5kSf1WIaV0DtdJHucOsSi0q?usp=sharing)
+| Google Maps | OSMnx |
+|-----------|-----------|
+| ![obr Dresden](images/mandziuk/obrMAPS.png)<br>11.7 km, 20 min autem | ![obr Dresden_mapy](images/mandziuk/obrMAPS.png)<br>10.4 km, 15 min autem |
 
 ![Obrázek 1](images/mandziuk/obrazek4.png)
 
