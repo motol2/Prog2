@@ -192,7 +192,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ---
 
 ## Dominik Pavelka
-🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
+🔗[ https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main](https://github.com/dominikpavelka1515/Dominik-Pavelka/blob/main/Kopie_se%C5%A1itu_BellmanFord.ipynb)
 
 ![Obrázek 1](images/pavelka/mapa1.png)
 ![Obrázek 2](images/pavelka/mapa2.png)
