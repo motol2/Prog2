@@ -40,6 +40,7 @@ a náhledy obrázků uložených ve složce `images/`.
 <!-- Velikost obrázku změníme jako v html: <img src="odkaz_na_obrazek1.jpg" width="150"><br>-->
 
 ## Ukázka
+[Odkaz na soubor *.ipynb](https://github.com/roboprogrammer13/ZacatkyPythonu/blob/cd679a7f3dc12eac85a784db27d941b24aff84d5/BellmanFord.ipynb)
 | OSMnx | mapy.cz |
 |-----------|-----------|
 | ![obr KladnoOSM](images/voracova/KladnoOSM.png)<br>2.9 km, 3 min autem | ![obr Kladno_mapy](images/voracova/Kladno_mapy.png)<br>3,5 km, 8 min autem |
