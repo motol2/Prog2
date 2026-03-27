@@ -260,7 +260,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Tomáš Sunkovský
 🔗 https://github.com/TomyssCZ/Tomas-Sunkovsky
 
-![Obrázek 1](images/sunkovsky/obrazek1.png)
+![Obrázek 3](images/sunkovsky/obrazek3.png)
 
 1
 ---
