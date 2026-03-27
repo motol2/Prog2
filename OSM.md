@@ -118,15 +118,14 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | ![obr Dresden_mapy](images/g
 <img width="1627" height="900" alt="Mapy cz" src="https://github.com/user-attachments/assets/a7475d64-c41a-416c-a365-a1a19b66048f" />
 
 ---
-<!-- Velikost obrázku změníme jako v html: <img src="odkaz_na_obrazek1.jpg" width="150"><br>-->
-
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
 [Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1dzjnX0bC4Aqf50XfIPnoxGxZCbQa4sk6?usp=sharing)
-| OSMnx a Mapa ||
+| OSMnx  | Google Mapa|
 |-----------|-----------|
-![Obrázek 1](images/jandak/obrázek.png)
-![Obrázek 2](images/jandak/Mapa1.png)
+
+![Obrázek 1](<img width="150" height="150" alt="obrázek" src="https://github.com/user-attachments/assets/2f92f941-183e-499a-97e0-f203b2619f60" />)
+![Obrázek 2](<img width="150" height="150" alt="Mapa1" src="https://github.com/user-attachments/assets/aaa9ae6e-f533-4530-967a-0012c48fd9c1" />)
 
 
 ---
