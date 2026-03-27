@@ -194,7 +194,8 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Dominik Pavelka
 🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
 
-![Obrázek 1](images/pavelka/obrazek4.png)
+![Obrázek 1](images/pavelka/images/pavelka/Chuchle 2026-03-27 084257.png)
+![Obrázek 2](images/pavelka/images/pavelka/images/pavelka/real chuchle 2026-03-27 084716.png)
 
 ---
 
