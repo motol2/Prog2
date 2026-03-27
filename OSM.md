@@ -107,6 +107,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ![Obrázek 1](images/hron/Obrázek1.png)
 
 ---
+<!-- Velikost obrázku změníme jako v html: <img src="odkaz_na_obrazek1.jpg" width="150"><br>-->
 
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
