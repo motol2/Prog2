@@ -110,8 +110,12 @@ a náhledy obrázků uložených ve složce `images/`.
 
 ## Tomáš Jandák
 🔗 https://github.com/Tjandak/Jandak
+[Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1dzjnX0bC4Aqf50XfIPnoxGxZCbQa4sk6#scrollTo=wCNr37U1Zt9O)
+| Google Maps Moje Mapa | OSMnx |
+|-----------|-----------|
+![Obrázek 1](images/jandak/obrázek.png)
+![Obrázek 2](images/jandak/Mapa1.png)
 
-![Obrázek 1](images/jandak/obrazek4.png)
 
 ---
 
