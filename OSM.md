@@ -91,15 +91,13 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Vojtěch Garčic
 🔗 https://github.com/JouJoumanCZ/skola
 
-[Odkaz na soubor *.ipynb]([https://colab.research.google.com/drive/1UcuCy1gFC5kSf1WIaV0DtdJHucOsSi0q?usp=sharing](https://colab.research.google.com/drive/1t590TLA3Yljpwcl0Eg2rI_LUntAvLSU3?usp=sharing))
+[Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1t590TLA3Yljpwcl0Eg2rI_LUntAvLSU3?usp=sharing)
 | OSMnx | Google Maps |
 |-----------|-----------|
 | ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/obrazek4.png)
 VÝSLEDKY TRASY: | VÝSLEDKY TRASY: |
 Nejkratší vzdálenost: 3566 metrů |Nejkratší vzdálenost: 2800 metrů|
 Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy: 4 minuty|
-
-![Obrázek 1](images/mandziuk/obrazek4.png)
 
 ---
 
