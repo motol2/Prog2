@@ -171,7 +171,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ---
 
 ## Marek Miláček
-🔗 https://github.com/marek-milacek/MMilacek
+🔗 [https://github.com/marek-milacek/MMilacek](https://github.com/roboprogrammer13/ZacatkyPythonu/blob/cd679a7f3dc12eac85a784db27d941b24aff84d5/BellmanFord.ipynb)
 
 ![Obrázek 1](images/milacek/obrazek4.png)
 
