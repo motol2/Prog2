@@ -95,9 +95,9 @@ a náhledy obrázků uložených ve složce `images/`.
 | OSMnx | Google Maps |
 |-----------|-----------|
 | ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/obrazek4.png)
-VÝSLEDKY TRASY:
-Nejkratší vzdálenost: 3566 metrů (červená linka)
-Předpokládaný čas jízdy: 4 minut a 18 sekund | 10.4 km, 15 min autem |
+VÝSLEDKY TRASY: | VÝSLEDKY TRASY: |
+Nejkratší vzdálenost: 3566 metrů (červená linka) 
+Předpokládaný čas jízdy: 4 minut a 18 sekund | 2.8 km, 4 min autem |
 
 ![Obrázek 1](images/mandziuk/obrazek4.png)
 
