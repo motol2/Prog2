@@ -104,7 +104,6 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Michal Hron
 🔗 https://github.com/michal670/Hron---repozit-
 
-![Obrázek 1](images/hron/Obrázek1.png)
 <img width="712" height="716" alt="Google colab" src="https://github.com/user-attachments/assets/9a8a702c-3b33-4fdb-afb4-d4abc8ce6054" />
 <img width="1627" height="900" alt="Mapy cz" src="https://github.com/user-attachments/assets/a7475d64-c41a-416c-a365-a1a19b66048f" />
 
