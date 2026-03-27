@@ -98,7 +98,7 @@ a náhledy obrázků uložených ve složce `images/`.
 | ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/bellmanosm.png)
 VÝSLEDKY TRASY:
 Nejkratší vzdálenost: 3566 metrů (červená linka)
-Předpokládaný čas jízdy: 4 minut a 18 sekund | ![obr Dresden_mapy](images/garcic/bellmanosm.png)<br>10.4 km, 15 min autem |
+Předpokládaný čas jízdy: 4 minut a 18 sekund | 10.4 km, 15 min autem |
 
 ![Obrázek 1](images/mandziuk/obrazek4.png)
 
