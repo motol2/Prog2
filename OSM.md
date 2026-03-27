@@ -94,7 +94,7 @@ a náhledy obrázků uložených ve složce `images/`.
 [Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1UcuCy1gFC5kSf1WIaV0DtdJHucOsSi0q?usp=sharing)
 | OSMnx | Google Maps |
 |-----------|-----------|
-| ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/bellmanosm.png)
+| ![obr Dresden](images/garcic/obrázek3.png)<br> | ![obr Dresden_mapy](images/garcic/obrazek4.png)
 VÝSLEDKY TRASY:
 Nejkratší vzdálenost: 3566 metrů (červená linka)
 Předpokládaný čas jízdy: 4 minut a 18 sekund | 10.4 km, 15 min autem |
