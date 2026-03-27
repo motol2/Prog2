@@ -192,9 +192,10 @@ a náhledy obrázků uložených ve složce `images/`.
 
 ## Pavel Kubát
 🔗 https://github.com/Piratesk1/Kubat
-
-![Obrázek 1](images/kubat/obrazek4.png)
-
+| OSMnx | Mapy.cz |
+|-----------|-----------|
+![Obrázek 1](images/kubat/vatikan.png)
+![Obrázek 2](images/kubat/mapy.png)
 ---
 
 ## Dominik Pavelka
