@@ -123,8 +123,8 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | 10.4 km, 15 min autem |
 | OSMnx     |Google Mapa|
 |-----------|-----------|
 
-![Obrázek 1](<img width="150" height="150" alt="obrázek" src="https://github.com/user-attachments/assets/2f92f941-183e-499a-97e0-f203b2619f60" />)
-![Obrázek 2](<img width="150" height="150" alt="Mapa1" src="https://github.com/user-attachments/assets/aaa9ae6e-f533-4530-967a-0012c48fd9c1" />)
+![Obrázek 1](<img width="100" height="100" alt="obrázek" src="https://github.com/user-attachments/assets/2f92f941-183e-499a-97e0-f203b2619f60" />)
+![Obrázek 2](<img width="100" height="100" alt="Mapa1" src="https://github.com/user-attachments/assets/aaa9ae6e-f533-4530-967a-0012c48fd9c1" />)
 
 
 ---
