@@ -166,7 +166,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
 
-![Obrázek 1](images/mayrhofer/image.png)
+![Obrázek 1](images/mayrhofer/cesta.kod.png)
 
 ---
 
