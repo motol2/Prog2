@@ -202,7 +202,7 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/TondaPovolny/Povolny
 | OSMnx | Maps.google.com |
 |-----------|-----------|
-|![Obrázek 1](images/povolny/obrazek4.png) <br>700 m | ![Obrázek 3](images/povolny/obrazek3.png)<br>702m, 10 min pěšky |
+|![Obrázek 1](images/povolny/obrazek4.png) <br>702 m | ![Obrázek 3](images/povolny/obrazek3.png)<br>700m, 10 min pěšky |
 
 ---
 
