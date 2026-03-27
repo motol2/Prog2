@@ -238,7 +238,10 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
 
-![Obrázek 1](images/suchansky/obrazek4.png)
+[Odkaz na kod](https://github.com/jakubsuchansky/Suchansky/blob/main/trasa-prazsky%20hrad)
+| OSMnx | googlemaps |
+|-----------|-----------|
+| ![obr Prazsky_hrad](https://github.com/jakubsuchansky/Suchansky/blob/main/image.png)<br> 454m | ![obr Prazsky_hrad](https://github.com/jakubsuchansky/Suchansky/blob/main/Sn%C3%ADmek%20obrazovky%202026-03-27%20083938.png)<br>454m |
 
 ---
 
