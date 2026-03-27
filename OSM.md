@@ -84,6 +84,8 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
 
 ![Obrázek 1](images/filip/obrazek4.png)
+![Obrázek 1](images/filip/obrazek5.png)
+
 
 ---
 
