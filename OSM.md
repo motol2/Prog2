@@ -92,7 +92,15 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Vojtěch Garčic
 🔗 https://github.com/JouJoumanCZ/skola
 
-![Obrázek 1](images/garcic/obrazek4.png)
+[Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1UcuCy1gFC5kSf1WIaV0DtdJHucOsSi0q?usp=sharing)
+| Google Maps | OSMnx |
+|-----------|-----------|
+| ![obr Dresden](images/garcic/obrazek4.png)<br>
+VÝSLEDKY TRASY:
+Nejkratší vzdálenost: 3566 metrů (červená linka)
+Předpokládaný čas jízdy: 4 minut a 18 sekund | ![obr Dresden_mapy](images/garcic/bellmanosm.png)<br>10.4 km, 15 min autem |
+
+![Obrázek 1](images/mandziuk/obrazek4.png)
 
 ---
 
