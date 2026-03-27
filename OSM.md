@@ -200,11 +200,9 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | 10.4 km, 15 min autem |
 ---
 
 ## Pavel Kubát
-🔗 https://github.com/Piratesk1/Kubat
-| OSMnx | Mapy.cz |
-|-----------|-----------|
-![Obrázek 1](<img width="150" height="150" alt="vatikan" src="https://github.com/user-attachments/assets/88b3faf7-68e7-445c-9982-c7424a09b035" />)
+🔗 https://github.com/Piratesk1/Kubat/blob/main/moje_mapa.ipynb
 
+![Obrázek 1](images/kubat/vatikan.png)
 ![Obrázek 2](images/kubat/mapy.png)
 ---
 
