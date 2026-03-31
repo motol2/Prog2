@@ -144,8 +144,13 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 
 ## Šimon Kreperát
 🔗 https://github.com/Simanski7/Kreperat
+[Odkaz na soubor *.ipynb](https://colab.research.google.com/drive/1xWREZmFHtf0n8D4fmIZnuTk54awwm2ad?usp=drive_link)
+| OSMnx |Google Mapa|
 
-![Obrázek 1](images/kreperat/obrazek4.png)
+
+![Obrázek 1](images/kreperat/mapa2.png)
+![Obrázek 2](images/kreperat/blatiny-vozovna motol.png)
+
 
 ---
 
