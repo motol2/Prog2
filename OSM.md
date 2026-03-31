@@ -149,7 +149,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 
 
 ![Obrázek 1](images/kreperat/mapa2.png)
-![Obrázek 2](images/kreperat/blatiny-vozovna motol.png)
+![Obrázek 2](blatiny-vozovna-motol.png)
 
 
 ---
