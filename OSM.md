@@ -148,8 +148,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 | OSMnx |Google Mapa|
 
 ![Obrázek 1](images/kreperat/mapa2.png)
-![Obrázek 2](blatiny.png)
-
+![Obrázek 2](images/kreperat/blatiny.png)
 ---
 
 ## Karyna Kryvka
