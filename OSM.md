@@ -139,7 +139,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 🔗 https://github.com/Maomi0906/Kravets-Maksym
 | OSMnx | mapy.cz |
 |-----------|-----------|
-| ![obr KladnoOSM](images/kravets/Mapa.png)<br>462m, 6 min autem | ![obr Kladno_mapy](images/kravets/Mapa1.png)<br>450m, 8 min autem |
+| ![obr KladnoOSM](images/kravets/Mapa1.png)<br>462m, 5 min 32 s | ![obr Kladno_mapy](images/kravets/Mapa2.png)<br>450m, 6 min |
 
 ![Obrázek 1](images/kravets/obrazek4.png)
 
