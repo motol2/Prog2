@@ -137,7 +137,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 
 ## Maksym Kravets
 🔗 https://github.com/Maomi0906/Kravets-Maksym
-| OSMnx | mapy.cz |
+| OSMnx | Google Maps |
 |-----------|-----------|
 | ![obr KladnoOSM](images/kravets/Mapa1.png)<br> | ![obr Kladno_mapy](images/kravets/Mapa2.png)<br> |
 Výsledek: OSMnx: | Výsledek: Google Maps: |
