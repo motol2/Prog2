@@ -137,6 +137,9 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 
 ## Maksym Kravets
 🔗 https://github.com/Maomi0906/Kravets-Maksym
+| OSMnx | mapy.cz |
+|-----------|-----------|
+| ![obr KladnoOSM](images/voracova/Mapa.png)<br>450m, 6 min autem | ![obr Kladno_mapy](images/voracova/Mapa1.png)<br>450m, 8 min autem |
 
 ![Obrázek 1](images/kravets/obrazek4.png)
 
