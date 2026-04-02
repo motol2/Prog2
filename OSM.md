@@ -137,6 +137,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 
 ## Maksym Kravets
 🔗 https://github.com/Maomi0906/Kravets-Maksym
+[Odkaz na soubor *.ipynb](https://github.com/Maomi0906/Kravets-Maksym/blob/main/OSMnx.ipynb)
 | OSMnx | Google Maps |
 |-----------|-----------|
 | ![Obrázek 1](images/kravets/Mapa1.png)<br> | ![Obrázek 2](images/kravets/Mapa2.png)<br> |
