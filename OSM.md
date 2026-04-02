@@ -143,7 +143,7 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 | ![Obrázek 1](images/kravets/Mapa1.png)<br> | ![Obrázek 2](images/kravets/Mapa2.png)<br> |
 Výsledek OSMnx: | Výsledek Google Maps: |
 Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
-Čas cesty: 5 minut a 32 sekundy | Čas cesty: 6 minut|
+Čas cesty: 5 min a 32 s pěšky | Čas cesty: 6 min pěšky|
 
 
 ---
