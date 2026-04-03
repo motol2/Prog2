@@ -63,6 +63,7 @@ a náhledy obrázků uložených ve složce `images/`.
 🔗 https://github.com/dedeczech/Borovicka
 
 ![Obrázek 1](images/borovicka/obrazek4.png)
+![Obrázek 2](images/borovicka/obrazek5.png)
 
 ---
 
