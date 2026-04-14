@@ -161,7 +161,8 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ## Karyna Kryvka
 🔗 https://github.com/moonlight-898/Karina
 
-![Obrázek 1](images/kryvka/obrazek4.png)
+![Obrázek 1](images/kryvka/mapycz.png)
+![Obrázek 2](images/kryvka/mapapy.png)
 
 ---
 
