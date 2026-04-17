@@ -216,7 +216,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ---
 
 ## Petr Škarvan
-🔗 https://github.com/Petr-Skarvan/skarvan.py
+🔗 https://github.com/Petr-Skarvan/skarvan
 
 ![Obrázek 1](images/skarvan/obrazek4.png)
 
