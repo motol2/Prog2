@@ -258,7 +258,7 @@ https://github.com/VincentProchazka/Vincent-Prochazka/blob/main/Kopie_se%C5%A1it
 🔗 https://github.com/Petr-Skarvan/skarvan
 | Google maps | OSMNx |
 |-----------|-----------|
-|![Obrázek 1](images/skarvan/obrazek4.png) | ![Obrázek 2](images/skarvan/namesti.png)|
+|![Obrázek 1](images/skarvan/namesti2.png) | ![Obrázek 2](images/skarvan/namesti.png)|
 
 
 ---
