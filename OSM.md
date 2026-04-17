@@ -188,7 +188,7 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
 
-![Obrázek 1](images/mayrhofer/cesta.kod1.png)
+![Obrázek 1](images/mayrhofer/cesta.kod1.png) ![Obrázek 2](images/mayrhofer/mapa.png)
 
 ---
 
