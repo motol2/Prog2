@@ -62,7 +62,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Ondřej Borovička
 🔗 https://github.com/dedeczech/Borovicka
 
-![Obrázek 1](images/borovicka/obrazek4.png)
+![Obrázek 1](images/borovicka/obrazekvinohrad.png)
 ![Obrázek 2](images/borovicka/obrazek5.png)
 
 ---
