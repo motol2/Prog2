@@ -1,3 +1,4 @@
+<img width="1891" height="979" alt="comparison" src="https://github.com/user-attachments/assets/33c93d52-8840-4b95-a785-28343313c4fe" />
 # 🎨 Galerie nejkratších cest v OSMnx
 
 Každý student má vlastní sekci se svým jménem, odkazem na GitHub
@@ -70,7 +71,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
 
-![Obrázek 1](https://brozovec.eu/video_test_gradiant.mp4)
+![Obrázek 1](images/broz/comparison.png)
 
 ---
 
