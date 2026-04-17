@@ -169,7 +169,8 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ## Šimon Kubala
 🔗 https://github.com/S-1man/ZacatkyPythonu---Kubala
 
-![Obrázek 1](images/kubala/obrazek4.png)
+![Obrázek 1](images/kubala/obrazekmapa2.png)
+![Obrázek 2](images/kubala/obrazekmapa1.png)
 
 ---
 
