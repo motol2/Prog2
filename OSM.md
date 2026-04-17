@@ -234,7 +234,7 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ---
 
 ## Vincent Procházka
-🔗 https://github.com/VincentProchazka/Vincent-Prochazka
+https://github.com/VincentProchazka/Vincent-Prochazka/blob/main/Kopie_se%C5%A1itu_BellmanFord.ipynb
 
 ![Obrázek 1](images/prochazka/obrazek4.png)
 
