@@ -85,7 +85,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ## Vojtěch Garčic
 🔗 https://github.com/JouJoumanCZ/skola
 
-![Obrázek 1](images/garcic/obrazek4.png)
+![Obrázek 1](images/garcic/obrazek5.png)
 
 ---
 
