@@ -216,7 +216,7 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 | OSMnx |
 |-----------|-----------|
 ![Obrázek 1](images/kubat/vatikan.png)
-
+---
 | mapy.cz |
 |-----------|-----------|
 ![Obrázek 2](images/kubat/mapy.png)
