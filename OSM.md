@@ -105,8 +105,8 @@ Předpokládaný čas jízdy: 4 minut a 18 sekund | Předpokládaný čas jízdy
 ## Daniel Horáček
 🔗 https://github.com/Dndskid/Horacek
 
-![Obrázek 1]([[images/horacek/obrazek6.png]](https://github.com/Dndskid/Horacek/blob/main/obrazek6.png))
-![Obrázek 2]([[images/horacek/obrazek5.png]](https://github.com/Dndskid/Horacek/blob/main/obrazek5.png))
+![Obrázek 1](images/horacek/obrazek6.png)
+![Obrázek 2](images/horacek/obrazek5.png)
 
 
 ## Michal Hron
