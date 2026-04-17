@@ -70,7 +70,7 @@ a náhledy obrázků uložených ve složce `images/`.
 
 ## Adam Brož
 🔗 https://github.com/Brozovec/broz
-
+https://github.com/motol2/Prog2/blob/dfaf52f0810b9ecd1c7eb1ec7fec50e478f4d3e2/images/broz/route_comparison.ipynb
 ![Obrázek 1](images/broz/comparison.png)
 
 ---
