@@ -265,7 +265,7 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 
 ## Tomáš Štěpán
 🔗 https://github.com/Tomas120cz/Stepan
-
+https://github.com/Tomas120cz/Stepan/blob/main/BellmanFordOSM.ipynb
 ![Obrázek 1](images/stepan/obrazek4.png)
 
 ---
