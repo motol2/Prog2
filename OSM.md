@@ -203,7 +203,9 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ## Mark Nahornyi
 🔗 https://github.com/MarkQTN/SPSD-Nahornyi
 
-![Obrázek 1](images/nahornyi/obrazek4.png)
+![Obrázek 1](images/nahornyi/osm1.png)
+![Obrázek 2](images/nahornyi/osm2.png)
+![Obrázek 3](images/nahornyi/osm3.png)
 
 ---
 
