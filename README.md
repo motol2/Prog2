@@ -118,7 +118,9 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 
 ## Lukáš Jiránek
 🔗 https://github.com/MentysTV/Jir-nek-Luk-
-<img width="986" height="737" alt="Snímek obrazovky 2026-01-09 100638" src="https://github.com/user-attachments/assets/d15e88ef-15ad-4187-8d31-454ca221f3f6" />
+<img width="512" height="387" alt="negr" src="https://github.com/user-attachments/assets/dcfeaa55-0962-4180-aeab-de5ac731b737" />
+<img width="1024" height="774" alt="mapy" src="https://github.com/user-attachments/assets/0532a91f-e81e-4772-ac18-106d63e6831d" />
+
 
 ![Obrázek 1](images/jiranek/obrazek1.png)
 
