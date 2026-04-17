@@ -156,8 +156,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
 
-![Obrázek 2](images/mayrhofer/mapa.png)
-![Obrázek 1](images/mayrhofer/cesta.kod1.png)
+![Obrázek 2](images/mayrhofer/mapa.png)  ![Obrázek 1](images/mayrhofer/cesta.kod1.png)
 ---
 
 ## Marek Miláček
