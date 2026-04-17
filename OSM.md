@@ -195,8 +195,8 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 ## Marek Miláček
 🔗 [[https://github.com/marek-milacek/MMilacek](https://github.com/marek-milacek/MMilacek/blob/main/BellmanFordOSM.ipynb)
 
-![Obrázek 1](images/milacek/obrazek4.png)
-![Obrázek 2](images/milacek/mapa1.png)
+![Obrázek 1](images/milacek/obrazek4.png) ![Obrázek 2](images/milacek/mapa1.png)
+
 
 ---
 
