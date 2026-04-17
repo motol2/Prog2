@@ -176,7 +176,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ## Pavel Kubát
 🔗 https://github.com/Piratesk1/Kubat
 
-![Obrázek 1](images/kubat/obrazek4.png)
+![Obrázek 1](images/kubat/gui.png)
 
 ---
 
