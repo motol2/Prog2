@@ -256,9 +256,10 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 
 ## Petr Škarvan
 🔗 https://github.com/Petr-Skarvan/skarvan
+| OSMnx | Google maps |
+|-----------|-----------|
+|![Obrázek 1](images/skarvan/obrazek4.png) | ![Obrázek 2](images/skarvan/namesti.png)|
 
-![Obrázek 1](images/skarvan/obrazek4.png)
-![Obrázek 2](images/skarvan/namesti.png)
 
 ---
 
