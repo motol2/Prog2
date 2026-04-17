@@ -214,11 +214,11 @@ Vzdálenost: 462 metrů | Vzdálenost: 450 metrů|
 🔗 https://github.com/Piratesk1/Kubat/blob/main/moje_mapa.ipynb
 
 | OSMnx |
-|-----------|-----------|
+|-----------|
 ![Obrázek 1](images/kubat/vatikan.png)
 ---
 | mapy.cz |
-|-----------|-----------|
+|-----------|
 ![Obrázek 2](images/kubat/mapy.png)
 ---
 
