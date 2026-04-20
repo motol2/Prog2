@@ -49,6 +49,7 @@ a náhledy obrázků uložených ve složce `images/`.
 ## Anastasiia Balanets
 🔗 https://gist.github.com/qqqwwwaaarr/8836721a765b9ab68eea0549dbb75a66
 [Odkaz na soubor *.ipynb](https://github.com/qqqwwwaaarr/Balanets/blob/6dd4ee1c1dfd155105dd791cc31de577c75784ba/BellmanFord1.ipynb)
+Trasa: Piazza Navona -> Piazza del Popolo
 | OSMnx | mapy.cz |
 |-----------|-----------|
 | ![obraz3](images/balanets/obraz3.png)<br>1.4 km, 19 min pěšky | ![oraz4](images/balanets/obraz4.png)<br>1.9 km, 38 min pěšky |
