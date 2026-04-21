@@ -128,7 +128,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ## Šimon Kreperát
 🔗 https://github.com/Simanski7/Kreperat
 
-![obrazek 1](images/kreperat/https://github.com/motol2/Prog2/blob/main/images/kreperat/obrazek3.png.png)
+![Obrázek 1](images/kreperat/https://github.com/motol2/Prog2/blob/main/images/kreperat/obrazek3.png)
 
 ---
 
