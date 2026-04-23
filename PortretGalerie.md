@@ -58,7 +58,7 @@
 <b>Adam Brož</b>
 
 <a id="fenynets"></a>
-<img src="images/fenynets/vitalii_fenynets.jpg" width="140"><br>
+<img src="images/fenynets/vitalii_fenynets.png" width="140"><br>
 <b>Vitalii Fenynets</b>
 
 <a id="filip"></a>
@@ -78,7 +78,7 @@
 <b>Michal Hron</b>
 
 <a id="jandak"></a>
-<img src="images/jandak/tomas_jandak.jpg" width="140"><br>
+<img src="images/jandak/tomas_jandak.png" width="140"><br>
 <b>Tomáš Jandák</b>
 
 <a id="jiranek"></a>
@@ -86,11 +86,11 @@
 <b>Lukáš Jiránek</b>
 
 <a id="kravets"></a>
-<img src="images/kravets/maksym_kravets.jpg" width="140"><br>
+<img src="images/kravets/maksym_kravets.png" width="140"><br>
 <b>Maksym Kravets</b>
 
 <a id="kreperat"></a>
-<img src="images/kreperat/simon_kreperat.jpg" width="140"><br>
+<img src="images/kreperat/simon_kreperat.png" width="140"><br>
 <b>Šimon Kreperát</b>
 
 <a id="kryvka"></a>
@@ -102,7 +102,7 @@
 <b>Šimon Kubala</b>
 
 <a id="kubat"></a>
-<img src="images/kubat/pavel_kubat.jpg" width="140"><br>
+<img src="images/kubat/pavel_kubat.png" width="140"><br>
 <b>Pavel Kubát</b>
 
 <a id="mandziuk"></a>
@@ -110,7 +110,7 @@
 <b>Mykola Mandziuk</b>
 
 <a id="mayrhofer"></a>
-<img src="images/mayrhofer/hynek_mayrhofer.jpg" width="140"><br>
+<img src="images/mayrhofer/hynek_mayrhofer.png" width="140"><br>
 <b>Hynek Mayrhofer</b>
 
 <a id="milacek"></a>
@@ -126,7 +126,7 @@
 <b>Dominik Pavelka</b>
 
 <a id="povolny"></a>
-<img src="images/povolny/antonin_povolny.jpg" width="140"><br>
+<img src="images/povolny/antonin_povolny.png" width="140"><br>
 <b>Antonín Povolný</b>
 
 <a id="prochazka"></a>
@@ -134,11 +134,11 @@
 <b>Vincent Procházka</b>
 
 <a id="rehak"></a>
-<img src="images/rehak/marek_rehak.jpg" width="140"><br>
+<img src="images/rehak/marek_rehak.png" width="140"><br>
 <b>Marek Řehák</b>
 
 <a id="sauer"></a>
-<img src="images/sauer/matyas_sauer.jpg" width="140"><br>
+<img src="images/sauer/matyas_sauer.png" width="140"><br>
 <b>Matyáš Sauer</b>
 
 <a id="suchansky"></a>
@@ -150,7 +150,7 @@
 <b>Tomáš Sunkovský</b>
 
 <a id="skarvan"></a>
-<img src="images/skarvan/petr_skarvan.jpg" width="140"><br>
+<img src="images/skarvan/petr_skarvan.png" width="140"><br>
 <b>Petr Škarvan</b>
 
 <a id="stepan"></a>
@@ -158,7 +158,7 @@
 <b>Tomáš Štěpán</b>
 
 <a id="vitak"></a>
-<img src="images/vitak/jachym_vitak.jpg" width="140"><br>
+<img src="images/vitak/jachym_vitak.png" width="140"><br>
 <b>Jáchym Viták</b>
 
 </div>
