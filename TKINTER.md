@@ -142,7 +142,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ## Šimon Kubala
 🔗 https://github.com/S-1man/ZacatkyPythonu---Kubala
 
-![Obrázek 1](images/kubala/obrazek4.png)
+![Obrázek 1](tkintergamegui.png)
 
 ---
 
