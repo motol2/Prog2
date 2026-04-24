@@ -197,7 +197,7 @@ Autoři:
 ## Marek Řehák
 🔗 https://github.com/MarekRehak/-eh-k.git
 
-![Obrázek 1](images/rehak/obrazek4.png)
+![Obrázek 1](images/rehak/obrazek3.png)
 
 ---
 
