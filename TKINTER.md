@@ -91,7 +91,7 @@ Autoři:
 ------
 ------
 
-## Daniel Horáček a ## Vitalii Fenynets
+## Daniel Horáček a Vitalii Fenynets 🥹
 
 🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  (Spolupracoval i Vita)
 
