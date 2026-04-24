@@ -88,7 +88,7 @@ Autoři:
 ## Tomáš Jandák
 ## Pavel Kubát
 
-🔗 https://github.com/JouJoumanCZ/skola
+🔗https://github.com/Piratesk1/Kubat/blob/main/to_do_list.py
 
 ![Obrázek 1](images/garcic/obrazek5.png)
 
