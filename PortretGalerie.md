@@ -142,7 +142,7 @@
 <b>Matyáš Sauer</b>
 
 <a id="suchansky"></a>
-<img src="images/suchansky/jakub_suchansky.jpg" width="140"><br>
+<img src="[images/suchansky/jakub_suchansky.jpg](https://github.com/jakubsuchansky/Suchansky/blob/main/image-portret.png)" width="140"><br>
 <b>Jakub Suchánsky</b>
 
 <a id="sunkovsky"></a>
