@@ -80,7 +80,8 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ![Obrázek 1](images/filip/obrazek4.png)
 
----
+------------
+------------
 
 ## Vojtěch Garčic
 ## Tomáš Jandák
@@ -96,7 +97,8 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ![Obrázek 1](images/horacek/obrazek4.png)
 
----
+---------
+---------
 
 ## Michal Hron
 🔗 https://github.com/michal670/Hron---repozit-
