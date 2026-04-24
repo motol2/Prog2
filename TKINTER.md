@@ -176,13 +176,6 @@ Autoři:
 
 ---
 
-## Mark Nahornyi
-🔗 https://github.com/MarkQTN/SPSD-Nahornyi
-
-![Obrázek 1](images/nahornyi/obrazek4.png)
-
----
-
 ## Dominik Pavelka
 🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
 
@@ -215,7 +208,7 @@ Autoři:
 
 ---
 
-## Matyáš Sauer
+## Matyáš Sauer & Mark Nahornyi
 🔗 https://github.com/MatyaSau/Sauer
 
 ![Obrázek 1](images/sauer/obrazek4.png)
