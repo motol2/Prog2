@@ -181,7 +181,7 @@ Autoři:
 ---
 
 ## Antonín Povolný & Petr Škarvan
-🔗 https://github.com/TondaPovolny/Povolny
+🔗 https://github.com/Petr-Skarvan/skarvan
 
 ![Obrázek 1](images/skarvan/CoinFlow.png)
 
