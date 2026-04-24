@@ -54,7 +54,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ---
 
-## Ondřej Borovička
+## Ondřej Borovička and Šimon Kreperát
 🔗 https://github.com/dedeczech/Borovicka
 
 ![Obrázek 1](images/borovicka/obrazek4.png)
@@ -122,13 +122,6 @@ Autoři:
 🔗 https://github.com/Maomi0906/Kravets-Maksym
 
 ![Obrázek 1](images/kravets/obrazek4.png)
-
----
-
-## Šimon Kreperát
-🔗 https://github.com/Simanski7/Kreperat
-
-![Obrázek 1](images/kreperat/obrazek4.png)
 
 ---
 
