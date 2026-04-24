@@ -194,8 +194,10 @@ Autoři:
 
 ---
 
-## Marek Řehák
+## Marek Řehák % Jakub Suchánsky
 🔗 https://github.com/MarekRehak/-eh-k.git
+https://github.com/jakubsuchansky/Suchansky
+https://github.com/jakubsuchansky/flappy-bird
 
 ![Obrázek 1](images/rehak/obrazek3.png)
 
@@ -213,13 +215,6 @@ Autoři:
 🔗 https://github.com/Tomas120cz/Stepan
 
 ![Obrázek 1](images/stepan/obrazek4.png)
-
----
-
-## Jakub Suchánsky
-🔗 https://github.com/jakubsuchansky/Suchansky
-
-![Obrázek 1](images/rehak/obrazek3.png)
 
 ---
 
