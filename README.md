@@ -138,7 +138,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Šimon Kreperát
 🔗 https://github.com/Simanski7/Kreperat
 
-![Obrázek 1](images/kreperat/obrazek1.png)
+![Obrázek 1](images/kreperat/obrázek1.png)
 
 1
 ---
