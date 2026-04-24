@@ -101,7 +101,9 @@ Autoři:
 
 https://elementsio.onrender.com/
 
-![Obrázek 1](images/horacek/obrazek4.png)
+![Obrázek 1](images/horacek/elementsgp.png)
+
+![Obrázek 2](images/horacek/elementsmenu.png)
 
 ---------
 ---------
