@@ -56,6 +56,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ## Ondřej Borovička and Šimon Kreperát
 🔗 https://github.com/dedeczech/Borovicka
+🔗 https://github.com/Simanski7/Kreperat
 
 ![Obrázek 1](images/borovicka/obrazek4.png)
 
