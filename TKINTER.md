@@ -83,8 +83,10 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ------------
 ------------
 
+Autoři:
 ## Vojtěch Garčic
 ## Tomáš Jandák
+## Pavel Kubát
 
 🔗 https://github.com/JouJoumanCZ/skola
 
@@ -168,13 +170,6 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 🔗 https://github.com/MarkQTN/SPSD-Nahornyi
 
 ![Obrázek 1](images/nahornyi/obrazek4.png)
-
----
-
-## Pavel Kubát
-🔗 https://github.com/Piratesk1/Kubat
-
-![Obrázek 1](images/kubat/gui.png)
 
 ---
 
