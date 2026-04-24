@@ -187,7 +187,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ---
 
-## Antonín Povolný
+## Antonín Povolný & Petr Škarvan
 🔗 https://github.com/TondaPovolny/Povolny
 
 ![Obrázek 1](images/skarvan/CoinFlow.png)
@@ -214,12 +214,6 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ![Obrázek 1](images/sauer/obrazek4.png)
 
 ---
-
-## Petr Škarvan
-🔗 https://github.com/Petr-Skarvan/skarvan
-
-![Obrázek 1](images/skarvan/CoinFlow.png)
-
 ---
 
 ## Tomáš Štěpán
