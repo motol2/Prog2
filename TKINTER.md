@@ -63,9 +63,9 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ---
 
 ## Adam Brož
-🔗 https://github.com/Brozovec/broz
-
-![Obrázek 1](https://brozovec.eu/video_test_gradiant.mp4)
+🔗 https://github.com/Brozovec/broz 
+Nachazí se tam README.md kde vysvetluje vše jak funguje atd a hlavní souborj je hra.py
+<img width="1098" height="778" alt="image" src="https://github.com/user-attachments/assets/56094cfa-2b9f-46c3-9553-89ae226119a5" />
 
 ---
 
