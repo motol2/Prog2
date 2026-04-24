@@ -70,7 +70,7 @@
 <b>Vojtěch Garčic</b>
 
 <a id="horacek"></a>
-<img src="images/horacek/daniel_horacek.jpg" width="140"><br>
+<img src="images/horacek/daniel_horacek.png" width="140"><br>
 <b>Daniel Horáček</b>
 
 <a id="hron"></a>
