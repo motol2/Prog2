@@ -172,7 +172,7 @@ Autoři:
 ## Marek Miláček
 🔗 https://github.com/marek-milacek/MMilacek
 
-![Obrázek 1](images/milacek/obrazek4.png)
+![Obrázek 1](images/milacek/piskvorky_image.png)
 
 ---
 
