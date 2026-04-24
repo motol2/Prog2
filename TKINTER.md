@@ -172,6 +172,7 @@ Autoři:
 
 ## Marek Miláček
 🔗[ https://github.com/marek-milacek/MMilacek](https://github.com/marek-milacek/MMilacek/blob/main/projekt_piskvorky)
+🔗[ https://github.com/dominikpavelka1515/Dominik-Pavelka]https://github.com/dominikpavelka1515/Dominik-Pavelka/blob/main/projekt_piskvorky
 
 ![Obrázek 1](images/milacek/piskvorky_image.png)
 
