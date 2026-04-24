@@ -149,7 +149,7 @@ Autoři:
 ## Mykola Mandziuk
 🔗 https://github.com/pepsikolya/stocks
 
-# President Clicker: Phonk Edition 
+### President Clicker: Phonk Edition 
  
 > **Klikni 100× na prezidenta za 30 sekund. Pohybuje se — buď rychlý!**
  
@@ -168,7 +168,7 @@ Autoři:
 </table>
 <br>
 
-##  Autoři
+###  Autoři
  
 **Kolja & Jáchym**
 
