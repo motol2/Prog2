@@ -226,8 +226,7 @@ Autoři:
 ## Tomáš Sunkovský
 🔗 https://github.com/TomyssCZ/Tomas-Sunkovsky
 
-![Obrázek 1](images/sunkovsky/obrazek4.png)
-
+<img src="images/sunkovsky/obrazek4.png" alt="Obrázek 1" width="300">
 ---
 
 ## Jáchym Viták
