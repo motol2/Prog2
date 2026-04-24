@@ -149,7 +149,24 @@ Autoři:
 ## Mykola Mandziuk
 🔗 https://github.com/pepsikolya/stocks
 
-![Obrázek 1](images/mandziuk/obrazek4.png)
+# President Clicker: Phonk Edition 
+ 
+> **Klikni 100× na prezidenta za 30 sekund. Pohybuje se — buď rychlý!**
+ 
+<br>
+<table>
+  <tr>
+    <td align="center"><b>🏠 Start</b></td>
+    <td align="center"><b>🎮 Hra</b></td>
+    <td align="center"><b>💥 Konec</b></td>
+  </tr>
+  <tr>
+    <td><img src="images/mandziuk/start.png" width="100%"/></td>
+    <td><img src="images/mandziuk/hra.png" width="100%"/></td>
+    <td><img src="images/mandziuk/end.png" width="100%"/></td>
+  </tr>
+</table>
+<br>
 
 ---
 
