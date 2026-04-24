@@ -140,7 +140,7 @@ Autoři:
 ---
 
 ## Mykola Mandziuk | Jáchym Viták
-🔗 https://github.com/pepsikolya/stocks
+🔗 [https://github.com/pepsikolya/tkinterskola]
 
 ### President Clicker: Phonk Edition 
  
