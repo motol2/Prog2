@@ -122,7 +122,7 @@
 <b>Mark Nahornyi</b>
 
 <a id="pavelka"></a>
-<img src="images/pavelka/Portret.jpeg" width="140"><br>
+<img src="images/pavelka/images/pavelka/Snímek obrazovky_13-2-2026_904_pollo.ai.jpeg" width="140"><br>
 <b>Dominik Pavelka</b>
 
 <a id="povolny"></a>
