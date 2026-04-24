@@ -170,7 +170,7 @@ Autoři:
 ![Obrázek 2](images/mayrhofer/mapa.png)  ![Obrázek 1](images/mayrhofer/cesta.kod1.png)
 ---
 
-## Marek Miláček
+## Marek Miláček a Dominik Pavelka
 🔗[ https://github.com/marek-milacek/MMilacek](https://github.com/marek-milacek/MMilacek/blob/main/projekt_piskvorky)
 🔗[ https://github.com/dominikpavelka1515/Dominik-Pavelka]https://github.com/dominikpavelka1515/Dominik-Pavelka/blob/main/projekt_piskvorky
 
