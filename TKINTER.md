@@ -69,14 +69,7 @@ Nachazí se tam README.md kde vysvetluje vše jak funguje atd a hlavní souborj 
 
 ---
 
-## Vitalii Fenynets
-🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  
 
-https://elementsio.onrender.com/
-
-![Obrázek 1](images/horacek/elementsgp.png)
-
-![Obrázek 2](images/horacek/elementsmenu.png)
 
 ## Tomáš Filip
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
@@ -98,7 +91,8 @@ Autoři:
 ------
 ------
 
-## Daniel Horáček
+## Daniel Horáček a ## Vitalii Fenynets
+
 🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  (Spolupracoval i Vita)
 
 https://elementsio.onrender.com/
