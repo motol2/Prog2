@@ -211,7 +211,7 @@ Autoři:
 ## Matyáš Sauer & Mark Nahornyi
 🔗 https://github.com/MatyaSau/Sauer
 
-![Obrázek 1](images/sauer/obrazek4.png)
+![Obrázek 1](images/sauer/apka.png)
 
 ---
 ---
