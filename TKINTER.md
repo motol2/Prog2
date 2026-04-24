@@ -30,9 +30,8 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 [Pavelka](#dominik-pavelka) ·
 [Povolný](#antonín-povolný) ·
 [Procházka](#vincent-procházka) ·
-[Řehák](#marek-řehák) ·
+[Řehák](#marek-řehák-%-jakub-suchánsky) ·
 [Sauer](#matyáš-sauer) ·
-[Suchánsky](#jakub-suchánsky) ·
 [Sunkovský](#tomáš-sunkovský) ·
 [Škarvan](#petr-škarvan) ·
 [Štěpán](#tomáš-štěpán) ·
