@@ -70,11 +70,13 @@ Nachazí se tam README.md kde vysvetluje vše jak funguje atd a hlavní souborj 
 ---
 
 ## Vitalii Fenynets
-🔗 https://github.com/Ekzarmfs/Fenynets.git
+🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  
 
-![Obrázek 1](images/fenynets/obrazek4.png)
+https://elementsio.onrender.com/
 
----
+![Obrázek 1](images/horacek/elementsgp.png)
+
+![Obrázek 2](images/horacek/elementsmenu.png)
 
 ## Tomáš Filip
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
@@ -97,7 +99,7 @@ Autoři:
 ------
 
 ## Daniel Horáček
-🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  
+🔗 https://github.com/Dndskid/Horacek/blob/main/Elementsio.zip  (Spolupracoval i Vita)
 
 https://elementsio.onrender.com/
 
