@@ -156,17 +156,21 @@ Autoři:
 <br>
 <table>
   <tr>
-    <td align="center"><b>🏠 Start</b></td>
-    <td align="center"><b>🎮 Hra</b></td>
-    <td align="center"><b>💥 Konec</b></td>
+    <td align="center"><b> Start</b></td>
+    <td align="center"><b> Hra</b></td>
+    <td align="center"><b> Konec</b></td>
   </tr>
   <tr>
     <td><img src="images/mandziuk/start.png" width="100%"/></td>
     <td><img src="images/mandziuk/hra.png" width="100%"/></td>
-    <td><img src="images/mandziuk/end.png" width="100%"/></td>
+    <td><img src="images/mandziuk/end).png" width="100%"/></td>
   </tr>
 </table>
 <br>
+
+##  Autoři
+ 
+**Kolja & Jáchym**
 
 ---
 
