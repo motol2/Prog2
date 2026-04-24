@@ -260,7 +260,8 @@ https://github.com/VincentProchazka/Vincent-Prochazka/blob/main/Kopie_se%C5%A1it
 ## Matyáš Sauer
 🔗 https://github.com/MatyaSau/Sauer
 
-![Obrázek 1](images/sauer/obrazek4.png)
+![Obrázek 1](images/sauer/osm1.png)
+![Obrázek 2](images/sauer/osm2.png)
 
 ---
 
