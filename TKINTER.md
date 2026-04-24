@@ -83,6 +83,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 ---
 
 ## Vojtěch Garčic
+## Tomáš Jandák
 🔗 https://github.com/JouJoumanCZ/skola
 
 ![Obrázek 1](images/garcic/obrazek5.png)
@@ -103,7 +104,7 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ---
 
-## Tomáš Jandák
+
 🔗 https://github.com/Tjandak/Jandak
 
 ![Obrázek 1](images/jandak/trinket.png)
