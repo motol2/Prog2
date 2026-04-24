@@ -90,7 +90,8 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ![Obrázek 1](images/garcic/obrazek5.png)
 
----
+------
+------
 
 ## Daniel Horáček
 🔗 https://github.com/Dndskid/Horacek
