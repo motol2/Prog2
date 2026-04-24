@@ -59,7 +59,7 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ## Ondřej Borovička
 🔗 https://github.com/dedeczech/Borovicka
 
-![Obrázek 1](images/borovicka/obrazek1.png)
+![Obrázek 1](images/borovicka/zelvigrafika.jpg)
 
 1-2
 ---
