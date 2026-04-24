@@ -219,7 +219,7 @@ Autoři:
 ## Jakub Suchánsky
 🔗 https://github.com/jakubsuchansky/Suchansky
 
-![Obrázek 1](images/suchansky/obrazek4.png)
+![Obrázek 1](images/rehak/obrazek3.png)
 
 ---
 
