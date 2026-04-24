@@ -212,6 +212,7 @@ Autoři:
 🔗 https://github.com/jakubsuchansky/flappy-bird
 
 ![Obrázek 1](images/rehak/obrazek3.png)
+<img src="images/rehak/obrazek3.png" alt="Obrázek 1" width="300">
 
 ---
 
