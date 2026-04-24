@@ -146,7 +146,7 @@
 <b>Jakub Suchánsky</b>
 
 <a id="sunkovsky"></a>
-<img src="images/sunkovsky/tomas_sunkovsky.png" width="140"><br>
+<img src="images/sunkovsky/11832.png" width="140"><br>
 <b>Tomáš Sunkovský</b>
 
 <a id="skarvan"></a>
