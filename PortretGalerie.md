@@ -50,7 +50,7 @@
 <b>Michael Bartuněk</b>
 
 <a id="borovicka"></a>
-<img src="images/borovicka/ondrej_borovicka.jpg" width="140"><br>
+<img src="images/borovicka/ondrej_borovicka.png" width="140"><br>
 <b>Ondřej Borovička</b>
 
 <a id="broz"></a>
