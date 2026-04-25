@@ -124,9 +124,9 @@ https://elementsio.onrender.com/
 
 🔗 https://github.com/moonlight-898/Karina
 
-| OSMnx | Google Maps |
-|-----------|-----------|
-| ![Obrázek 1](images/kravets/Mapa1.png)<br> | ![Obrázek 2](images/kravets/Mapa2.png)<br> |
+|  |  |  |
+|-----------|-----------|-----------|
+| ![Obrázek 1](images/kravets/Tkinter1.png)<br> | ![Obrázek 2](images/kravets/Tkinter2.png)<br> | ![Obrázek 2](images/kravets/Tkinter3.png)<br> |
 
 ![Obrázek 1](images/kravets/obrazek4.png)
 
