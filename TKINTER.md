@@ -124,6 +124,8 @@ https://elementsio.onrender.com/
 
 🔗 https://github.com/moonlight-898/Karina
 
+| ![Obrázek 1](images/kravets/Mapa1.png)<br> | ![Obrázek 2](images/kravets/Mapa2.png)<br> |
+
 ![Obrázek 1](images/kravets/obrazek4.png)
 
 ![Obrázek 1](images/kryvka/obrazek4.png)
