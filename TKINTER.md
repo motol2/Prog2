@@ -128,9 +128,6 @@ https://elementsio.onrender.com/
 |-----------|-----------|-----------|
 | ![Obrázek 1](images/kravets/Tkinter1.png)<br> | ![Obrázek 2](images/kravets/Tkinter2.png)<br> | ![Obrázek 2](images/kravets/Tkinter3.png)<br> |
 
-![Obrázek 1](images/kravets/obrazek4.png)
-
-![Obrázek 1](images/kryvka/obrazek4.png)
 
 ---
 
