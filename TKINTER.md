@@ -119,15 +119,11 @@ https://elementsio.onrender.com/
 
 ---
 
-## Maksym Kravets
+## Maksym Kravets | Karyna Kryvka
 🔗 https://github.com/Maomi0906/Kravets-Maksym
+🔗 https://github.com/moonlight-898/Karina
 
 ![Obrázek 1](images/kravets/obrazek4.png)
-
----
-
-## Karyna Kryvka
-🔗 https://github.com/moonlight-898/Karina
 
 ![Obrázek 1](images/kryvka/obrazek4.png)
 
