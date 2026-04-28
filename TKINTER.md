@@ -186,6 +186,9 @@ https://elementsio.onrender.com/
 ## Petr Škarvan & Antonín Povolný  
 🔗 https://github.com/Petr-Skarvan/skarvan/blob/main/CoinFlow.zip
 🔗 https://github.com/TondaPovolny/Povolny/blob/main/CoinFlow.zip
+NÁVOD
+1. Extrahovat
+2. Je to main.exe
 
 ![Obrázek 1](images/skarvan/CoinFlow.png)
 
