@@ -164,7 +164,7 @@ https://elementsio.onrender.com/
 
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer
-
+https://github.com/hynekmayrhofer1/Hynek-Mayrhofer/blob/main/tin.ipynb
 ![Obrázek 2](images/mayrhofer/mapa.png)  ![Obrázek 1](images/mayrhofer/cesta.kod1.png)
 ---
 
