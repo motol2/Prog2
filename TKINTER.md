@@ -164,7 +164,7 @@ https://elementsio.onrender.com/
 
 ## Hynek Mayrhofer
 🔗 https://github.com/hynekmayrhofer1/Hynek-Mayrhofer/blob/main/tkinter.ipynb
-  ![Obrázek 1](images/mayrhofer/cesta.kod1.png)
+  ![Obrázek 1](images/mayrhofer/ses.png)
 ---
 
 ## Marek Miláček a Dominik Pavelka
