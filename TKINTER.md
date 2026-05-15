@@ -233,10 +233,3 @@ NÁVOD
 
 ---
 
-## Jáchym Viták
-🔗 https://github.com/Jachy47/Vitak2
-
-![Obrázek 1](https://github.com/Jachy47/Vitak2/blob/main/vesmir2.png)
-
----
-
