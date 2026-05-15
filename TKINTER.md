@@ -40,11 +40,6 @@ Pro inspiraci se koukněte na krátků návod ke knihovně [tkinter_tutorial_cz.
 
 ---
 
-## Anastasiia Balanets
-🔗 https://gist.github.com/qqqwwwaaarr/8836721a765b9ab68eea0549dbb75a66
-
-![Obrázek 1](images/balanets/obrazek4.png)
-
 ---
 
 ## Michael Bartuněk
@@ -71,10 +66,10 @@ Nachazí se tam README.md kde vysvetluje vše jak funguje atd a hlavní souborj 
 
 
 
-## Tomáš Filip
+## Tomáš Filip, Anastasiia Balanets
 🔗 https://github.com/tomasfilip2009-ship-it/Tom-Filip
 
-![Obrázek 1](images/filip/obrazek4.png)
+![Obrázek 1](images/filip/image.png)
 
 ------------
 ------------
