@@ -104,10 +104,6 @@ https://elementsio.onrender.com/
 ---------
 ---------
 
-## Michal Hron
-🔗 https://github.com/michal670/Hron---repozit-
-
-![Obrázek 1](images/kubala/tkintergamegui.png)
 
 ---
 
@@ -131,8 +127,9 @@ https://elementsio.onrender.com/
 
 ---
 
-## Šimon Kubala
+## Šimon Kubala a Michal Hron
 🔗 https://github.com/S-1man/ZacatkyPythonu---Kubala
+🔗 https://github.com/michal670/Hron---repozit-
 
 ![Obrázek 1](images/kubala/tkintergamegui.png)
 
