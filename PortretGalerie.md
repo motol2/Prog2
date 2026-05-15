@@ -110,7 +110,7 @@
 <b>Mykola Mandziuk</b>
 
 <a id="mayrhofer"></a>
-<img src="images/mayrhofer/hynek_mayrhofer.png" width="140"><br>
+<img src="images/mayrhofer/hynek_mayhofer.png" width="140"><br>
 <b>Hynek Mayrhofer</b>
 
 <a id="milacek"></a>
