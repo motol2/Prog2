@@ -104,9 +104,8 @@ https://elementsio.onrender.com/
 
 ## Lukáš Jiránek
 🔗 https://github.com/MentysTV/Jir-nek-Luk-
-<img width="986" height="737" alt="Snímek obrazovky 2026-01-09 100638" src="https://github.com/user-attachments/assets/d15e88ef-15ad-4187-8d31-454ca221f3f6" />
+<img width="1816" height="840" alt="image" src="https://github.com/user-attachments/assets/4b6a1624-e371-42a4-b741-a9602cc395f7" />
 
-![Obrázek 1](images/jiranek/obrazek4.png)
 
 ---
 
