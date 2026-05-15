@@ -173,12 +173,6 @@ https://elementsio.onrender.com/
 
 ![Obrázek 1](images/milacek/piskvorky_image.png)
 
----
-
-## Dominik Pavelka
-🔗 https://github.com/dominikpavelka1515/Dominik-Pavelka/tree/main
-
-![Obrázek 1](images/pavelka/obrazek4.png)
 
 ---
 
