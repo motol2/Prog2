@@ -255,7 +255,7 @@ https://github.com/VincentProchazka/Vincent-Prochazka/blob/main/Kopie_se%C5%A1it
 ## Marek Řehák
 🔗 https://github.com/MarekRehak/-eh-k.git
 
-![Obrázek 1](images/rehak/mapa.png) <br>702 m | ![Obrázek 3](images/rehak/Snímek obrazovky 2026-05-15 081253.png)<br>700m, 13 min pěšky v |
+![Obrázek 1](images/rehak/mapa.png) <br>702 m | ![Obrázek 3](images/rehak/googlemapa.png)<br>700m, 13 min pěšky v |
 
 
 ---
