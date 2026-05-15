@@ -75,8 +75,6 @@ Nachazí se tam README.md kde vysvetluje vše jak funguje atd a hlavní souborj 
 ------------
 
 Autoři:
-## Vojtěch Garčic
-
 **[Vojtěch Garčic](#vojtěch-garčic)** &nbsp; | &nbsp; **[Pavel Kubát](#pavel-kubát)** &nbsp; | &nbsp; **[Tomáš Jandák](#tomáš-jandák)**
 
 🔗https://github.com/Piratesk1/Kubat/blob/main/to_do_list.py
