@@ -107,7 +107,7 @@ https://elementsio.onrender.com/
 ## Michal Hron
 🔗 https://github.com/michal670/Hron---repozit-
 
-![Obrázek 1](images/hron/Obrázek1.png)
+![Obrázek 1](images/kubala/tkintergamegui.png)
 
 ---
 
