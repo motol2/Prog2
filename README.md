@@ -38,7 +38,8 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 [Sunkovský](#tomáš-sunkovský) ·
 [Škarvan](#petr-škarvan) ·
 [Štěpán](#tomáš-štěpán) ·
-[Viták](#jáchym-viták)
+[Viták](#jáchym-viták) ·
+[Voráčová](#šárka-voráčová)
 
 ---
 
@@ -273,6 +274,13 @@ Pro inspiraci se koukněte na soubor <a href="https://colab.research.google.com/
 ![Obrázek 1](https://github.com/Jachy47/Vitak2/blob/main/vesmir.png?raw=true)
 
 1-2
+---
+
+## Šárka Voráčová
+🔗 https://github.com/SarkaVoracova/Prog2
+
+![Obrázek 1](images/voracova/obrazek1.png)
+
 ---
 
 🗳️ **Hlasování:**  
